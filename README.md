@@ -1,16 +1,14 @@
-# api_task
+# Flutter API Authentication & User Profile Retrieval
+This Flutter project implements user authentication and profile retrieval using REST API.
 
-A new Flutter project.
+## Features:
+✅ User login with email and password.
+✅ Secure authentication with Bearer Token.
+✅ Fetch user profile details.
 
-## Getting Started
+Tech Stack: Flutter, Dart, HTTP
 
-This project is a starting point for a Flutter application.
+📌 API Docs: [Provided API Endpoints]
+📌 How to run: Clone the repo, install dependencies, and run the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to contribute or report issues! 🚀
