@@ -10,7 +10,3 @@ This Flutter project implements user authentication and profile retrieval using 
 
 Tech Stack: Flutter, Dart, HTTP
 
-📌 API Docs: [Provided API Endpoints]
-📌 How to run: Clone the repo, install dependencies, and run the app.
-
-Feel free to contribute or report issues! 🚀
